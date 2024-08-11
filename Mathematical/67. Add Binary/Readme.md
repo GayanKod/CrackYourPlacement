@@ -54,6 +54,8 @@ public class Solution {
         Array.Reverse(charArray);
         return new string(charArray);
     }
-}```
+}
+```
 
+### Submission
 ![Submission](./image.png)
