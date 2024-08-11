@@ -9,8 +9,8 @@ Welcome to my solutions for the CrackYourPlacement challenge! Below is a list of
 - [287. Find the Duplicate Number](./Arrays/287.%20Find%20the%20Duplicate%20Number/)
 
 ### Strings
-- [20. Valid Parentheses](./Strings/20.%20Valid%20Parentheses/)
-- [28. Find the Index of the First Occurrence in a String](./Strings/28.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String/)
+- [20. Valid Parentheses](./String/20.%20Valid%20Parentheses/)
+- [28. Find the Index of the First Occurrence in a String](./String/28.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String/)
 - [14. Longest Common Prefix](./Strings/14.%20Longest%20Common%20Prefix/)
 - [680. Valid Palindrome II](./Strings/680.%20Valid%20Palindrome%20II/)
 
