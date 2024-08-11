@@ -43,4 +43,4 @@ public class Solution {
     }
 }
 
-![Submission](image.png)
+![Submission](./image.png)
