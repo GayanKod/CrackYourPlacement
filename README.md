@@ -2,7 +2,7 @@
 
 Welcome to my solutions for the CrackYourPlacement challenge! Below is a list of problems I've solved, organized by category.
 
-## Solved Problems (Total - 12)
+## Solved Problems (Total - 18)
 
 ### Arrays
 - [26. Remove Duplicates from Sorted Array](./Arrays/26.%20Remove%20Duplicates%20from%20Sorted%20Array/)
