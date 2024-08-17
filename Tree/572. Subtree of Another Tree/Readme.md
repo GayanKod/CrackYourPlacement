@@ -120,20 +120,20 @@ public boolean isSubtree(TreeNode root, TreeNode subRoot) {
     return isSubtree(root.left, subRoot) || isSubtree(root.right, subRoot);
 }
 ```
-- `if (root == null) { return false; }`:
-  This checks if root is null. If it is, it means there’s no tree left to search, so subRoot can’t be a subtree, and we return false.
+`if (root == null) { return false; }`:
+- This checks if root is null. If it is, it means there’s no tree left to search, so subRoot can’t be a subtree, and we return false.
 
-- `if (root.val == subRoot.val)`:
-  This checks if the current node in root has the same value as the root node of subRoot. If they are the same, there is a possibility that subRoot could be a subtree starting from this node.
+`if (root.val == subRoot.val)`:
+- This checks if the current node in root has the same value as the root node of subRoot. If they are the same, there is a possibility that subRoot could be a subtree starting from this node.
 
-- `boolean found = isEqual(root, subRoot);`:
-  If the values match, the code then calls the isEqual method to check if the tree rooted at this node (root) is identical to subRoot.
+`boolean found = isEqual(root, subRoot);`:
+- If the values match, the code then calls the isEqual method to check if the tree rooted at this node (root) is identical to subRoot.
 
-- `if (found) { return true; }`:
-  If the trees are identical (isEqual returns true), then we have found the subtree, so we return true.
+`if (found) { return true; }`:
+- If the trees are identical (isEqual returns true), then we have found the subtree, so we return true.
 
-- `return isSubtree(root.left, subRoot) || isSubtree(root.right, subRoot);`:
-  If the current node doesn’t match or the trees are not identical, the code recursively checks the left and right children of root to see if subRoot is a subtree of either.
+`return isSubtree(root.left, subRoot) || isSubtree(root.right, subRoot);`:
+- If the current node doesn’t match or the trees are not identical, the code recursively checks the left and right children of root to see if subRoot is a subtree of either.
 
 #### isEqual Method
 
