@@ -121,16 +121,56 @@ public boolean isSubtree(TreeNode root, TreeNode subRoot) {
 }
 ```
 - `if (root == null) { return false; }`:
-  This checks if `root` is `null`. If it is, it means there’s no tree left to search, so `subRoot` can’t be a subtree, and we return `false`.
+  This checks if root is null. If it is, it means there’s no tree left to search, so subRoot can’t be a subtree, and we return false.
 
 - `if (root.val == subRoot.val)`:
-  This checks if the current node in `root` has the same value as the root node of `subRoot`. If they are the same, there is a possibility that `subRoot` could be a subtree starting from this node.
+  This checks if the current node in root has the same value as the root node of subRoot. If they are the same, there is a possibility that subRoot could be a subtree starting from this node.
 
 - `boolean found = isEqual(root, subRoot);`:
-  If the values match, the code then calls the `isEqual` method to check if the tree rooted at this node (root) is identical to `subRoot`.
+  If the values match, the code then calls the isEqual method to check if the tree rooted at this node (root) is identical to subRoot.
 
 - `if (found) { return true; }`:
-  If the trees are identical (`isEqual` returns `true`), then we have found the subtree, so we return `true`.
+  If the trees are identical (isEqual returns true), then we have found the subtree, so we return true.
 
 - `return isSubtree(root.left, subRoot) || isSubtree(root.right, subRoot);`:
-  If the current node doesn’t match or the trees are not identical, the code recursively checks the left and right children of root to see if `subRoot` is a subtree of either.
+  If the current node doesn’t match or the trees are not identical, the code recursively checks the left and right children of root to see if subRoot is a subtree of either.
+
+#### isEqual Method
+
+```java
+private boolean isEqual(TreeNode node1, TreeNode node2) {
+    if (node1 == null && node2 == null) {
+        return true;
+    }
+    if (node1 == null || node2 == null) {
+        return false;
+    }
+    if (node1.val != node2.val) {
+        return false;
+    }
+
+    boolean isEqual = isEqual(node1.left, node2.left);
+    if (!isEqual) {
+        return false;
+    }
+    return isEqual(node1.right, node2.right);
+}
+```
+
+`if (node1 == null && node2 == null) { return true; }`:
+- If both nodes are null, it means we’ve reached the end of both trees simultaneously, so they match up to this point, and we return true.
+
+`if (node1 == null || node2 == null) { return false; }`:
+- If one node is null and the other isn’t, the trees don’t match, so we return false.
+
+`if (node1.val != node2.val) { return false; }`:
+- If the values of the current nodes don’t match, the trees aren’t identical, so we return false.
+
+`boolean isEqual = isEqual(node1.left, node2.left);`:
+- This checks if the left subtree of node1 is identical to the left subtree of node2.
+
+`if (!isEqual) { return false; }`:
+- If the left subtrees aren’t identical, there’s no need to check further, so we return false.
+
+`return isEqual(node1.right, node2.right);`:
+- If the left subtrees match, we check the right subtrees. If both match, the trees are identical, so we return true.
