@@ -2,7 +2,7 @@
 
 Welcome to my solutions for the CrackYourPlacement challenge! Below is a list of problems I've solved, organized by category.
 
-## Solved Problems (Total - 19)
+## Solved Problems (Total - 26)
 
 ### Arrays
 - [26. Remove Duplicates from Sorted Array](./Arrays/26.%20Remove%20Duplicates%20from%20Sorted%20Array/)
@@ -12,6 +12,7 @@ Welcome to my solutions for the CrackYourPlacement challenge! Below is a list of
 - [121. Best Time to Buy and Sell Stock](./Arrays/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/)
 - [283. Move Zeroes](./Arrays/283.%20Move%20Zeroes/)
 - [73. Set Matrix Zeroes](./Arrays/73.%20Set%20Matrix%20Zeroes/)
+- [442. Find All Duplicates in an Array](./Arrays/442.%20Find%20All%20Duplicates%20in%20an%20Array/)
 
 ### String
 - [20. Valid Parentheses](./String/20.%20Valid%20Parentheses/)
@@ -30,6 +31,13 @@ Welcome to my solutions for the CrackYourPlacement challenge! Below is a list of
 - [1290. Convert Binary Number in a Linked List to Integer](./LinkedList/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer/)
 
 ### Graph
-
 - [200. Number of Islands](./Graph/200.%20Number%20of%20Islands/)
 - [733. Flood Fill](./Graph/733.%20Flood%20Fill/)
+
+### Tree
+- [101. Symmetric Tree](./Tree/101.%20Symmetric%20Tree/)
+- [108. Convert Sorted Array to Binary Search Tree](./Tree/108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/)
+- [226. Invert Binary Tree](./Tree/226.%20Invert%20Binary%20Tree/)
+- [543. Diameter of Binary Tree](./Tree/543.%20Diameter%20of%20Binary%20Tree/)
+- [572. Subtree of Another Tree](./Tree/572.%20Subtree%20of%20Another%20Tree/)
+- [938. Range Sum of BST](./Tree/938.%20Range%20Sum%20of%20BST/)
