@@ -1,6 +1,6 @@
 # 101. Symmetric Tree
 
-[Go to the code on Leetcode](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
+[Go to the code on Leetcode](https://leetcode.com/problems/symmetric-tree/)
 
 ## Problem Description
 
