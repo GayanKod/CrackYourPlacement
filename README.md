@@ -2,7 +2,7 @@
 
 Welcome to my solutions for the CrackYourPlacement challenge! Below is a list of problems I've solved, organized by category.
 
-## Solved Problems (Total - 28)
+## Solved Problems (Total - 30)
 
 ### Arrays
 - [26. Remove Duplicates from Sorted Array](./Arrays/26.%20Remove%20Duplicates%20from%20Sorted%20Array/)
@@ -15,6 +15,7 @@ Welcome to my solutions for the CrackYourPlacement challenge! Below is a list of
 - [442. Find All Duplicates in an Array](./Arrays/442.%20Find%20All%20Duplicates%20in%20an%20Array/)
 - [122. Best Time to Buy and Sell Stock II](./Arrays/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/)
 - [169. Majority Element](./Arrays/169.%20Majority%20Element/)
+- [88. Merge Sorted Array](./Arrays/88.%20Merge%20Sorted%20Array/)
 
 ### String
 - [20. Valid Parentheses](./String/20.%20Valid%20Parentheses/)
@@ -43,3 +44,6 @@ Welcome to my solutions for the CrackYourPlacement challenge! Below is a list of
 - [543. Diameter of Binary Tree](./Tree/543.%20Diameter%20of%20Binary%20Tree/)
 - [572. Subtree of Another Tree](./Tree/572.%20Subtree%20of%20Another%20Tree/)
 - [938. Range Sum of BST](./Tree/938.%20Range%20Sum%20of%20BST/)
+
+### Stack and Queues
+- [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks)
