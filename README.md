@@ -32,6 +32,7 @@ Welcome to my solutions for the CrackYourPlacement challenge! Below is a list of
 - [141. Linked List Cycle](./LinkedList/141.%20Linked%20List%20Cycle/)
 - [876. Middle of the Linked List](./LinkedList/876.%20Middle%20of%20the%20Linked%20List/)
 - [1290. Convert Binary Number in a Linked List to Integer](./LinkedList/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer/)
+- [203. Remove Linked List Elements](./LinkedList/203.%20Remove%20Linked%20List%20Elements/)
 
 ### Graph
 - [200. Number of Islands](./Graph/200.%20Number%20of%20Islands/)
