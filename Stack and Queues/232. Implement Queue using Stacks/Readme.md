@@ -20,7 +20,7 @@ By using this approach, we mimic the behavior of a queue using two stacks.
 
 ## Complexity
 
-### Time complexity:
+### Time complexity :
 - **Push Operation**: O(1) - Adding an element to the `input` stack is a constant-time operation.
 - **Pop Operation**: Average O(1) - In the worst case, we might need to move all elements from `input` to `output`, but each element is moved at most once, so the average time per operation is still constant.
 - **Peek Operation**: Average O(1) - Similar to the pop operation, each element is peeked at most once after being moved.
