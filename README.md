@@ -2,7 +2,7 @@
 
 Welcome to my solutions for the CrackYourPlacement challenge! Below is a list of problems I've solved, organized by category.
 
-## Solved Problems (Total - 32)
+## Solved Problems (Total - 34)
 
 ### Arrays
 - [26. Remove Duplicates from Sorted Array](./Arrays/26.%20Remove%20Duplicates%20from%20Sorted%20Array/)
@@ -16,6 +16,7 @@ Welcome to my solutions for the CrackYourPlacement challenge! Below is a list of
 - [122. Best Time to Buy and Sell Stock II](./Arrays/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/)
 - [169. Majority Element](./Arrays/169.%20Majority%20Element/)
 - [88. Merge Sorted Array](./Arrays/88.%20Merge%20Sorted%20Array/)
+- [Chocolate Distribution Problem (GFG)](./Arrays/[GFG]%20Chocolate%20Distribution%20Problem%20/)
 
 ### String
 - [20. Valid Parentheses](./String/20.%20Valid%20Parentheses/)
@@ -26,6 +27,7 @@ Welcome to my solutions for the CrackYourPlacement challenge! Below is a list of
 ### Mathematical
 - [67. Add Binary](./Mathematical/67.%20Add%20Binary/)
 - [628. Maximum Product of Three Numbers](./Mathematical/628.%20Maximum%20Product%20of%20Three%20Numbers/)
+- [Product Array Puzzel (GFG)](./Mathematical/[GFG]Product%20array%20puzzle/)
 
 ### Linked List
 - [83. Remove Duplicates from Sorted List](./LinkedList/83.%20Remove%20Duplicates%20from%20Sorted%20List/)
