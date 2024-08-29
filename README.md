@@ -2,7 +2,7 @@
 
 Welcome to my solutions for the CrackYourPlacement challenge! Below is a list of problems I've solved, organized by category.
 
-## Solved Problems (Total - 37)
+## Solved Problems (Total - 38)
 
 ### Arrays
 - [26. Remove Duplicates from Sorted Array](./Arrays/26.%20Remove%20Duplicates%20from%20Sorted%20Array/)
@@ -38,6 +38,7 @@ Welcome to my solutions for the CrackYourPlacement challenge! Below is a list of
 - [1290. Convert Binary Number in a Linked List to Integer](./LinkedList/1290.%20Convert%20Binary%20Number%20in%20a%20Linked%20List%20to%20Integer/)
 - [203. Remove Linked List Elements](./LinkedList/203.%20Remove%20Linked%20List%20Elements/)
 - [234. Palindrome Linked List](./LinkedList/234.%20Palindrome%20Linked%20List/)
+- [21. Merge Two Sorted Lists](./LinkedList/21.%20Merge%20Two%20Sorted%20Lists/)
 
 ### Graph
 - [200. Number of Islands](./Graph/200.%20Number%20of%20Islands/)
