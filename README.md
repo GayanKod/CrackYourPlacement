@@ -2,7 +2,7 @@
 
 Welcome to my solutions for the CrackYourPlacement challenge! Below is a list of problems I've solved, organized by category.
 
-## Solved Problems (Total - 35)
+## Solved Problems (Total - 36)
 
 ### Arrays
 - [26. Remove Duplicates from Sorted Array](./Arrays/26.%20Remove%20Duplicates%20from%20Sorted%20Array/)
@@ -23,6 +23,7 @@ Welcome to my solutions for the CrackYourPlacement challenge! Below is a list of
 - [28. Find the Index of the First Occurrence in a String](./String/28.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String/)
 - [14. Longest Common Prefix](./String/14.%20Longest%20Common%20Prefix%20/)
 - [680. Valid Palindrome II](./String/680.%20Valid%20Palindrome%20II/)
+- [GFG - Print all the duplicate characters in a string](./String/Print%20all%20the%20duplicate%20characters%20in%20a%20string/)
 
 ### Mathematical
 - [67. Add Binary](./Mathematical/67.%20Add%20Binary/)
