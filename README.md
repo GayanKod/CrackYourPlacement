@@ -2,7 +2,7 @@
 
 Welcome to my solutions for the CrackYourPlacement challenge! Below is a list of problems I've solved, organized by category.
 
-## Solved Problems (Total - 36)
+## Solved Problems (Total - 37)
 
 ### Arrays
 - [26. Remove Duplicates from Sorted Array](./Arrays/26.%20Remove%20Duplicates%20from%20Sorted%20Array/)
@@ -53,3 +53,6 @@ Welcome to my solutions for the CrackYourPlacement challenge! Below is a list of
 
 ### Stack and Queues
 - [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks)
+
+### Sorting and Searching
+- [Permute two arrays such that sum of every pair is greater or equal to K](./Sorting%20and%20Searching/Permute%20two%20arrays%20such%20that%20sum%20of%20every%20pair%20is%20greater%20or%20equal%20to%20K/)
