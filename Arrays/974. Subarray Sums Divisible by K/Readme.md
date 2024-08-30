@@ -1,12 +1,12 @@
-### Problem: Subarray Sums Divisible by K
+# 974. Problem: Subarray Sums Divisible by K
 
 **LeetCode Problem Link:** [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/)
 
-#### Intuition
+## Intuition
 
 The problem requires us to find the number of subarrays whose sum is divisible by a given number `k`. A subarray is a continuous part of an array. The key insight is that if two subarrays have the same remainder when their sums are divided by `k`, the difference between their sums is divisible by `k`. This can be used to efficiently count how many subarrays meet the requirement.
 
-#### Approach
+## Approach
 
 1. **Prefix Sum:** 
    - First, calculate a running sum of the elements in the array (also called a prefix sum). The prefix sum up to a certain index represents the sum of all elements from the start of the array to that index.
@@ -25,7 +25,7 @@ The problem requires us to find the number of subarrays whose sum is divisible b
 5. **Initialization:**
    - Initialize the map with the remainder `0` having a count of `1`. This is important because if a subarray from the start has a sum divisible by `k`, it should be counted.
 
-#### Complexity
+## Complexity
 
 - **Time Complexity:** 
   - The algorithm involves a single pass through the array, and each operation (including map lookups and updates) is `O(1)`. Thus, the time complexity is `O(n)` where `n` is the length of the array.
@@ -33,7 +33,7 @@ The problem requires us to find the number of subarrays whose sum is divisible b
 - **Space Complexity:**
   - The space complexity is `O(min(n, k))`, where `n` is the number of elements in the array. The space is used to store the remainders in a map.
 
-#### Code
+## Code
 
 ```java
 class Solution {
