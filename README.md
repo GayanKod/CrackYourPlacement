@@ -17,6 +17,7 @@ Welcome to my solutions for the CrackYourPlacement challenge! Below is a list of
 - [169. Majority Element](./Arrays/169.%20Majority%20Element/)
 - [88. Merge Sorted Array](./Arrays/88.%20Merge%20Sorted%20Array/)
 - [Chocolate Distribution Problem (GFG)](./Arrays/[GFG]%20Chocolate%20Distribution%20Problem%20/)
+- [974. Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k)
 
 ### String
 - [20. Valid Parentheses](./String/20.%20Valid%20Parentheses/)
