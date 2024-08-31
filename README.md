@@ -2,7 +2,7 @@
 
 Welcome to my solutions for the CrackYourPlacement challenge! Below is a list of problems I've solved, organized by category.
 
-## Solved Problems (Total - 39)
+## Solved Problems (Total - 40)
 
 ### Arrays
 - [26. Remove Duplicates from Sorted Array](./Arrays/26.%20Remove%20Duplicates%20from%20Sorted%20Array/)
@@ -18,6 +18,7 @@ Welcome to my solutions for the CrackYourPlacement challenge! Below is a list of
 - [88. Merge Sorted Array](./Arrays/88.%20Merge%20Sorted%20Array/)
 - [Chocolate Distribution Problem (GFG)](./Arrays/[GFG]%20Chocolate%20Distribution%20Problem%20/)
 - [974. Subarray Sums Divisible by K](./Arrays/974.%20Subarray%20Sums%20Divisible%20by%20K/)
+- [11. Container With Most Water](./Arrays/11.%20Container%20With%20Most%20Water/)
 
 ### String
 - [20. Valid Parentheses](./String/20.%20Valid%20Parentheses/)
