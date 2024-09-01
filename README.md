@@ -2,7 +2,7 @@
 
 Welcome to my solutions for the CrackYourPlacement challenge! Below is a list of problems I've solved, organized by category.
 
-## Solved Problems (Total - 41)
+## Solved Problems (Total - 43)
 
 ### Arrays
 - [26. Remove Duplicates from Sorted Array](./Arrays/26.%20Remove%20Duplicates%20from%20Sorted%20Array/)
@@ -20,6 +20,8 @@ Welcome to my solutions for the CrackYourPlacement challenge! Below is a list of
 - [974. Subarray Sums Divisible by K](./Arrays/974.%20Subarray%20Sums%20Divisible%20by%20K/)
 - [11. Container With Most Water](./Arrays/11.%20Container%20With%20Most%20Water/)
 - [15. 3Sum](./Arrays/15.%203Sum/)
+- [18. 4Sum](./Arrays/18.%204Sum/)
+- [1423. Maximum Points You can Obtain from Cards](./Arrays/1423.%20Maximum%20Points%20You%20Can%20Obtain%20from%20Cards/)
 
 ### String
 - [20. Valid Parentheses](./String/20.%20Valid%20Parentheses/)
