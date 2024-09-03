@@ -1,16 +1,16 @@
-### 79. Word Search 
+# 79. Word Search 
 
 [Go to the problem on Leetcode](https://leetcode.com/problems/word-search/)
 
 This problem involves searching for a given word in a 2D board of letters, where the word must be constructed by sequentially adjacent cells, either horizontally or vertically.
 
-#### Intuition
+## Intuition
 
 The main intuition behind this problem is that you need to explore the grid to find if the word exists by starting from each cell. Since the word can start from any cell and can go in any of the four possible directions (up, down, left, right), a depth-first search (DFS) is a natural fit for this problem. DFS allows us to explore all possible paths for the word starting from a specific cell. 
 
 To ensure that a cell is not reused in the same word path, we temporarily mark it as visited.
 
-#### Approach
+## Approach
 
 1. **Start the Search**: We begin by iterating through each cell of the board. For each cell, we start a depth-first search (DFS) to explore all possible paths that could form the word.
 
@@ -23,7 +23,7 @@ To ensure that a cell is not reused in the same word path, we temporarily mark i
 
 4. **Return the Result**: If any of the DFS calls return `true`, we know the word exists on the board and return `true`. If we exhaust all possibilities and none lead to a solution, we return `false`.
 
-#### Complexity
+## Complexity
 
 - **Time complexity**: 
   - The time complexity is `O(N * 4^L)`, where `N` is the total number of cells on the board, and `L` is the length of the word. 
@@ -33,7 +33,7 @@ To ensure that a cell is not reused in the same word path, we temporarily mark i
   - The space complexity is `O(L)` where `L` is the length of the word.
   - This accounts for the recursion stack used by DFS, which can go as deep as the length of the word.
 
-#### Code
+## Code
 
 ```java
 class Solution {
