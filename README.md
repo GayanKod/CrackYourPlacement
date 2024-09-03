@@ -2,7 +2,7 @@
 
 Welcome to my solutions for the CrackYourPlacement challenge! Below is a list of problems I've solved, organized by category.
 
-## Solved Problems (Total - 43)
+## Solved Problems (Total - 44)
 
 ### Arrays
 - [26. Remove Duplicates from Sorted Array](./Arrays/26.%20Remove%20Duplicates%20from%20Sorted%20Array/)
@@ -22,6 +22,7 @@ Welcome to my solutions for the CrackYourPlacement challenge! Below is a list of
 - [15. 3Sum](./Arrays/15.%203Sum/)
 - [18. 4Sum](./Arrays/18.%204Sum/)
 - [1423. Maximum Points You can Obtain from Cards](./Arrays/1423.%20Maximum%20Points%20You%20Can%20Obtain%20from%20Cards/)
+- [79. Word Search](./Arrays/79.%20Word%20Search/)
 
 ### String
 - [20. Valid Parentheses](./String/20.%20Valid%20Parentheses/)
