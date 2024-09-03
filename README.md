@@ -2,7 +2,7 @@
 
 Welcome to my solutions for the CrackYourPlacement challenge! Below is a list of problems I've solved, organized by category.
 
-## Solved Problems (Total - 47)
+## Solved Problems (Total - 49)
 
 ### Arrays
 - [26. Remove Duplicates from Sorted Array](./Arrays/26.%20Remove%20Duplicates%20from%20Sorted%20Array/)
@@ -66,3 +66,7 @@ Welcome to my solutions for the CrackYourPlacement challenge! Below is a list of
 
 ### Sorting and Searching
 - [Permute two arrays such that sum of every pair is greater or equal to K](./Sorting%20and%20Searching/Permute%20two%20arrays%20such%20that%20sum%20of%20every%20pair%20is%20greater%20or%20equal%20to%20K/)
+
+### Dynamic Programming
+- [70. Climbing Stairs](./Dynamic%20Programming/70.%20Climbing%20Stairs/)
+- [338. Counting Bits](./Dynamic%20Programming/338.%20Counting%20Bits/)
