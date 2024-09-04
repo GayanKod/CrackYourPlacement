@@ -2,7 +2,7 @@
 
 Welcome to my solutions for the CrackYourPlacement challenge! Below is a list of problems I've solved, organized by category.
 
-## Solved Problems (Total - 51)
+## Solved Problems (Total - 52)
 
 ### Arrays
 - [26. Remove Duplicates from Sorted Array](./Arrays/26.%20Remove%20Duplicates%20from%20Sorted%20Array/)
@@ -50,6 +50,7 @@ Welcome to my solutions for the CrackYourPlacement challenge! Below is a list of
 - [21. Merge Two Sorted Lists](./LinkedList/21.%20Merge%20Two%20Sorted%20Lists/)
 - [Sort a linked list of 0s, 1s and 2s](./LinkedList/Sort%20a%20linked%20list%20of%200s,%201s%20and%202s/)
 - [Multiply two linked lists](./LinkedList/Multiply%20two%20linked%20lists/)
+- [160. Intersection of Two Linked Lists](./LinkedList/160.%20Intersection%20of%20Two%20Linked%20Lists/)
 
 ### Graph
 - [200. Number of Islands](./Graph/200.%20Number%20of%20Islands/)
