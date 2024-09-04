@@ -51,6 +51,7 @@ Welcome to my solutions for the CrackYourPlacement challenge! Below is a list of
 - [Sort a linked list of 0s, 1s and 2s](./LinkedList/Sort%20a%20linked%20list%20of%200s,%201s%20and%202s/)
 - [Multiply two linked lists](./LinkedList/Multiply%20two%20linked%20lists/)
 - [160. Intersection of Two Linked Lists](./LinkedList/160.%20Intersection%20of%20Two%20Linked%20Lists/)
+- [206. Reverse Linked List](./LinkedList/206.%20Reverse%20Linked%20List/)
 
 ### Graph
 - [200. Number of Islands](./Graph/200.%20Number%20of%20Islands/)
