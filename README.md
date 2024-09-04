@@ -2,7 +2,7 @@
 
 Welcome to my solutions for the CrackYourPlacement challenge! Below is a list of problems I've solved, organized by category.
 
-## Solved Problems (Total - 53)
+## Solved Problems (Total - 55)
 
 ### Arrays
 - [26. Remove Duplicates from Sorted Array](./Arrays/26.%20Remove%20Duplicates%20from%20Sorted%20Array/)
@@ -66,10 +66,12 @@ Welcome to my solutions for the CrackYourPlacement challenge! Below is a list of
 - [938. Range Sum of BST](./Tree/938.%20Range%20Sum%20of%20BST/)
 
 ### Stack and Queues
-- [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks)
+- [232. Implement Queue using Stacks](./Stack%20and%20Queues/232.%20Implement%20Queue%20using%20Stacks/)
+- [844. Backspace String Compare](./Stack%20and%20Queues/844.%20Backspace%20String%20Compare/)
 
 ### Sorting and Searching
 - [Permute two arrays such that sum of every pair is greater or equal to K](./Sorting%20and%20Searching/Permute%20two%20arrays%20such%20that%20sum%20of%20every%20pair%20is%20greater%20or%20equal%20to%20K/)
+- [Ceiling in a sorted array](./Sorting%20and%20Searching/Ceiling%20in%20a%20sorted%20array/)
 
 ### Dynamic Programming
 - [70. Climbing Stairs](./Dynamic%20Programming/70.%20Climbing%20Stairs/)
