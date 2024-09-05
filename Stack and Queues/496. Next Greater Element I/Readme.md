@@ -41,4 +41,26 @@ class Solution {
             int num = nums2[i];
 
             // Maintain stack where top of the stack is the next greater element
-            while (!stack​⬤
+            while (!stack.isEmpty() && stack.peek() <= num) {
+                stack.pop();  // Pop elements smaller than or equal to current number
+            }
+
+            // If stack is empty, no greater element; otherwise, the top is the next greater element
+            if (stack.isEmpty()) {
+                map.put(num, -1);
+            } else {
+                map.put(num, stack.peek());
+            }
+
+            // Push the current element onto the stack
+            stack.push(num);
+        }
+
+        // Now, for each element in nums1, look up its next greater element in the map
+        for (int i = 0; i < nums1.length; i++) {
+            out[i] = map.get(nums1[i]);
+        }
+
+        return out;
+    }
+}
