@@ -2,7 +2,7 @@
 
 Welcome to my solutions for the CrackYourPlacement challenge! Below is a list of problems I've solved, organized by category.
 
-## Solved Problems (Total - 57)
+## Solved Problems (Total - 58)
 
 ### Arrays
 - [26. Remove Duplicates from Sorted Array](./Arrays/26.%20Remove%20Duplicates%20from%20Sorted%20Array/)
@@ -70,6 +70,7 @@ Welcome to my solutions for the CrackYourPlacement challenge! Below is a list of
 - [844. Backspace String Compare](./Stack%20and%20Queues/844.%20Backspace%20String%20Compare/)
 - [225. Implement Stack using Queues](./Stack%20and%20Queues/225.%20Implement%20Stack%20using%20Queues/)
 - [Implement Stack and Queue using Deque](./Stack%20and%20Queues/Implement%20Stack%20and%20Queue%20using%20Deque/)
+- [496. Next Greater Element I](./Stack%20and%20Queues/496.%20Next%20Greater%20Element%20I/)
 
 ### Sorting and Searching
 - [Permute two arrays such that sum of every pair is greater or equal to K](./Sorting%20and%20Searching/Permute%20two%20arrays%20such%20that%20sum%20of%20every%20pair%20is%20greater%20or%20equal%20to%20K/)
