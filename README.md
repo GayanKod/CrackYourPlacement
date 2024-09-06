@@ -2,7 +2,7 @@
 
 Welcome to my solutions for the CrackYourPlacement challenge! Below is a list of problems I've solved, organized by category.
 
-## Solved Problems (Total - 58)
+## Solved Problems (Total - 59)
 
 ### Arrays
 - [26. Remove Duplicates from Sorted Array](./Arrays/26.%20Remove%20Duplicates%20from%20Sorted%20Array/)
@@ -64,6 +64,7 @@ Welcome to my solutions for the CrackYourPlacement challenge! Below is a list of
 - [543. Diameter of Binary Tree](./Tree/543.%20Diameter%20of%20Binary%20Tree/)
 - [572. Subtree of Another Tree](./Tree/572.%20Subtree%20of%20Another%20Tree/)
 - [938. Range Sum of BST](./Tree/938.%20Range%20Sum%20of%20BST/)
+- [617. Merge Two Binary Trees](./Tree/617.%20Merge%20Two%20Binary%20Trees/)
 
 ### Stack and Queues
 - [232. Implement Queue using Stacks](./Stack%20and%20Queues/232.%20Implement%20Queue%20using%20Stacks/)
