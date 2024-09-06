@@ -65,6 +65,7 @@ Welcome to my solutions for the CrackYourPlacement challenge! Below is a list of
 - [572. Subtree of Another Tree](./Tree/572.%20Subtree%20of%20Another%20Tree/)
 - [938. Range Sum of BST](./Tree/938.%20Range%20Sum%20of%20BST/)
 - [617. Merge Two Binary Trees](./Tree/617.%20Merge%20Two%20Binary%20Trees/)
+- [104. Maximum Depth of Binary Tree](./Tree/104.%20Maximum%20Depth%20of%20Binary%20Tree/)
 
 ### Stack and Queues
 - [232. Implement Queue using Stacks](./Stack%20and%20Queues/232.%20Implement%20Queue%20using%20Stacks/)
