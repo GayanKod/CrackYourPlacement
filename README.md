@@ -2,7 +2,7 @@
 
 Welcome to my solutions for the CrackYourPlacement challenge! Below is a list of problems I've solved, organized by category.
 
-## Solved Problems (Total - 62)
+## Solved Problems (Total - 63)
 
 ### Arrays
 - [26. Remove Duplicates from Sorted Array](./Arrays/26.%20Remove%20Duplicates%20from%20Sorted%20Array/)
@@ -68,6 +68,7 @@ Welcome to my solutions for the CrackYourPlacement challenge! Below is a list of
 - [104. Maximum Depth of Binary Tree](./Tree/104.%20Maximum%20Depth%20of%20Binary%20Tree/)
 - [257. Binary Tree Paths](./Tree/257.%20Binary%20Tree%20Paths/)
 - [100. Same Tree](./Tree/100.%20Same%20Tree/)
+- [112. Path Sum](./Tree/112.%20Path%20Sum/)
 
 ### Stack and Queues
 - [232. Implement Queue using Stacks](./Stack%20and%20Queues/232.%20Implement%20Queue%20using%20Stacks/)
