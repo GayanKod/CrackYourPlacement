@@ -2,7 +2,7 @@
 
 Welcome to my solutions for the CrackYourPlacement challenge! Below is a list of problems I've solved, organized by category.
 
-## Solved Problems (Total - 69)
+## Solved Problems (Total - 70)
 
 ### Arrays
 - [26. Remove Duplicates from Sorted Array](./Arrays/26.%20Remove%20Duplicates%20from%20Sorted%20Array/)
@@ -75,6 +75,7 @@ Welcome to my solutions for the CrackYourPlacement challenge! Below is a list of
 - [94. Binary Tree Inorder Traversal](./Tree/94.%20Binary%20Tree%20Inorder%20Traversal/)
 - [530. Minimum Absolute Difference in BST](./Tree/530.%20Minimum%20Absolute%20Difference%20in%20BST/)
 - [Check whether BST contains Dead End](./Tree/Check%20whether%20BST%20contains%20Dead%20End/)
+- [235. Lowest Common Ancestor of a Binary Search Tree](./Tree/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree/)
 
 ### Stack and Queues
 - [232. Implement Queue using Stacks](./Stack%20and%20Queues/232.%20Implement%20Queue%20using%20Stacks/)
