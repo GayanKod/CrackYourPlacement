@@ -74,6 +74,7 @@ Welcome to my solutions for the CrackYourPlacement challenge! Below is a list of
 - [404. Sum of Left Leaves](./Tree/404.%20Sum%20of%20Left%20Leaves/)
 - [94. Binary Tree Inorder Traversal](./Tree/94.%20Binary%20Tree%20Inorder%20Traversal/)
 - [530. Minimum Absolute Difference in BST](./Tree/530.%20Minimum%20Absolute%20Difference%20in%20BST/)
+- [Check whether BST contains Dead End](./Tree/Check%20whether%20BST%20contains%20Dead%20End/)
 
 ### Stack and Queues
 - [232. Implement Queue using Stacks](./Stack%20and%20Queues/232.%20Implement%20Queue%20using%20Stacks/)
