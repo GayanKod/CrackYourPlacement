@@ -70,6 +70,7 @@ Welcome to my solutions for the CrackYourPlacement challenge! Below is a list of
 - [100. Same Tree](./Tree/100.%20Same%20Tree/)
 - [112. Path Sum](./Tree/112.%20Path%20Sum/)
 - [110. Balanced Binary Tree](./Tree/110.%20Balanced%20Binary%20Tree/)
+- [Predecessor and Successor](./Tree/Predecessor%20and%20Successor/)
 
 ### Stack and Queues
 - [232. Implement Queue using Stacks](./Stack%20and%20Queues/232.%20Implement%20Queue%20using%20Stacks/)
