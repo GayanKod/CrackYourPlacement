@@ -71,6 +71,7 @@ Welcome to my solutions for the CrackYourPlacement challenge! Below is a list of
 - [112. Path Sum](./Tree/112.%20Path%20Sum/)
 - [110. Balanced Binary Tree](./Tree/110.%20Balanced%20Binary%20Tree/)
 - [Predecessor and Successor](./Tree/Predecessor%20and%20Successor/)
+- [404. Sum of Left Leaves](./Tree/404.%20Sum%20of%20Left%20Leaves/)
 
 ### Stack and Queues
 - [232. Implement Queue using Stacks](./Stack%20and%20Queues/232.%20Implement%20Queue%20using%20Stacks/)
