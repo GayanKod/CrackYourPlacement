@@ -27,6 +27,7 @@ Welcome to my solutions for the CrackYourPlacement challenge! Below is a list of
 - [560. Subarray Sum Equals K](./Arrays/560.%20Subarray%20Sum%20Equals%20K/)
 - [54. Spiral Matrix](./Arrays/54.%20Spiral%20Matrix/)
 - [289. Game of Life](./Arrays/289.%20Game%20of%20Life/)
+- [493. Reverse Pairs]
 
 ### String
 - [20. Valid Parentheses](./String/20.%20Valid%20Parentheses/)
