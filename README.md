@@ -2,7 +2,7 @@
 
 Welcome to my solutions for the CrackYourPlacement challenge! Below is a list of problems I've solved, organized by category.
 
-## Solved Problems (Total - 72)
+## Solved Problems (Total - 73)
 
 ### Arrays
 - [26. Remove Duplicates from Sorted Array](./Arrays/26.%20Remove%20Duplicates%20from%20Sorted%20Array/)
@@ -27,7 +27,7 @@ Welcome to my solutions for the CrackYourPlacement challenge! Below is a list of
 - [560. Subarray Sum Equals K](./Arrays/560.%20Subarray%20Sum%20Equals%20K/)
 - [54. Spiral Matrix](./Arrays/54.%20Spiral%20Matrix/)
 - [289. Game of Life](./Arrays/289.%20Game%20of%20Life/)
-- [493. Reverse Pairs]
+- [493. Reverse Pairs](./Arrays/493.%20Reverse%20Pairs/)
 
 ### String
 - [20. Valid Parentheses](./String/20.%20Valid%20Parentheses/)
@@ -36,6 +36,7 @@ Welcome to my solutions for the CrackYourPlacement challenge! Below is a list of
 - [680. Valid Palindrome II](./String/680.%20Valid%20Palindrome%20II/)
 - [GFG - Print all the duplicate characters in a string](./String/Print%20all%20the%20duplicate%20characters%20in%20a%20string/)
 - [12. Integer to Roman](./String/12.%20Integer%20to%20Roman/)
+- [22. Generate Parentheses](./String/22.%20Generate%20Parentheses/)
 
 ### Mathematical
 - [67. Add Binary](./Mathematical/67.%20Add%20Binary/)
