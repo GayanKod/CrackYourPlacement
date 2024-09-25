@@ -2,7 +2,7 @@
 
 Welcome to my solutions for the CrackYourPlacement challenge! Below is a list of problems I've solved, organized by category.
 
-## Solved Problems (Total - 73)
+## Solved Problems (Total - 74)
 
 ### Arrays
 - [26. Remove Duplicates from Sorted Array](./Arrays/26.%20Remove%20Duplicates%20from%20Sorted%20Array/)
@@ -37,6 +37,7 @@ Welcome to my solutions for the CrackYourPlacement challenge! Below is a list of
 - [GFG - Print all the duplicate characters in a string](./String/Print%20all%20the%20duplicate%20characters%20in%20a%20string/)
 - [12. Integer to Roman](./String/12.%20Integer%20to%20Roman/)
 - [22. Generate Parentheses](./String/22.%20Generate%20Parentheses/)
+- [71. Simplify Path](./String/71.%20Simplify%20Path/)
 
 ### Mathematical
 - [67. Add Binary](./Mathematical/67.%20Add%20Binary/)
