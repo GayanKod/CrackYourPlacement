@@ -35,6 +35,7 @@ Welcome to my solutions for the CrackYourPlacement challenge! Below is a list of
 - [14. Longest Common Prefix](./String/14.%20Longest%20Common%20Prefix%20/)
 - [680. Valid Palindrome II](./String/680.%20Valid%20Palindrome%20II/)
 - [GFG - Print all the duplicate characters in a string](./String/Print%20all%20the%20duplicate%20characters%20in%20a%20string/)
+- [12. Integer to Roman](./String/12.%20Integer%20to%20Roman/)
 
 ### Mathematical
 - [67. Add Binary](./Mathematical/67.%20Add%20Binary/)
